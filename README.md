@@ -1,0 +1,1 @@
+A simple webpage for predicting Computer Science Salaries based on data from StackOverflow 2020 Developer's Survey
